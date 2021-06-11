@@ -29,12 +29,12 @@ OpenOCL,OCP,nonlinear,,,,yes,CasADi+ACADOS,,https://openocl.org/,
 YOP,OCP,,,,,,CasADi,,https://www.yoptimization.com/,
 MPC tools,MPC,,,,,,CasADi,,,
 Rockit,OCP,nonlinear,,Python,,,CasADi,,https://gitlab.kuleuven.be/meco-software/rockit,
-Trajopt,Motion planning,robotics,,,,,,,http://rll.berkeley.edu/trajopt/doc/sphinx_build/html/,http://www.eecs.berkeley.edu/~joschu/docs/trajopt-paper.pdf
+Trajopt,Motion planning,robotics,Sequential convex programming,,,,,,http://rll.berkeley.edu/trajopt/doc/sphinx_build/html/,http://www.eecs.berkeley.edu/~joschu/docs/trajopt-paper.pdf
 ParNMPC,MPC,nonlinear,,Matlab,,Yes,many Matlab toolboxes,BSD-2,https://github.com/deng-haoyang/ParNMPC,https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1798019
 Drake,,,,,,,,,,
 GPOPS,,,,,,,,,,
 GRAMPC,MPC,,augmented Lagrangian,C,Matlab Simulink,,,BSD,https://sourceforge.net/projects/grampc/,
-ALTRO,OCP, nonlinear,,Julia,,,,,,
+ALTRO,OCP, nonlinear,Augmented Lagrangian,Julia,,,,,,
 GusTO,Motion planning,,,,,,,,,
 OBCA,Motion planning,,,,,,,,,
 CIAO,Motion planning,,,,,,,,https://arxiv.org/pdf/2001.05449,
